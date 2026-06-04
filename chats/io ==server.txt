@@ -1,0 +1,5 @@
+io ==server
+socket  =  single server
+
+on =  event listen
+emit  = event fire
